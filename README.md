@@ -2,7 +2,7 @@
 
 This is a small Editor utility I created for testing out particles in Unity.
 
-It's a big hassle (in my opinion) to go back'n'forth from Unity to an image processing application just slightly tweak transparency or falloff of a particle texture. That's why I created this one.
+It's a big hassle (in my opinion) to go back'n'forth from Unity to an image processing application to just slightly tweak transparency or falloff of a particle texture. That's why I created this one.
 
 This is not a full tool, but something I created just for my own needs and use-case. I will probably extend it later when I need something else.
 
