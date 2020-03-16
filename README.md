@@ -1,5 +1,7 @@
 # RenderParticleTexture
 
+![Particle textures in use](renderParticleTexture_img4.jpg)
+
 This is a small Editor utility I created for testing out particles in Unity.
 
 It's a big hassle (in my opinion) to go back'n'forth from Unity to an image processing application to just slightly tweak transparency or falloff of a particle texture. That's why I created this one.
@@ -41,5 +43,3 @@ I implemented the particle texture rendering in a compute shader so that it woul
 ![Particle textures in use](renderParticleTexture_img2.jpg)
 
 ![Particle textures in use](renderParticleTexture_img3.jpg)
-
-![Particle textures in use](renderParticleTexture_img4.jpg)
