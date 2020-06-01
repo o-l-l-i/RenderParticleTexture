@@ -43,3 +43,5 @@ I implemented the particle texture rendering in a compute shader so that it woul
 ![Particle textures in use](renderParticleTexture_img2.jpg)
 
 ![Particle textures in use](renderParticleTexture_img3.jpg)
+
+© 2020 Olli Sorjonen All Rights Reserved
